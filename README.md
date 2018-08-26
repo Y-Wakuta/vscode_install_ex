@@ -1,0 +1,2 @@
+# vscode_install_ex
+vscodeのインストール用のスクリプトです
