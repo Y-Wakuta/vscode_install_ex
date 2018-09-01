@@ -20,3 +20,4 @@ code --install-extension tomoki1207.pdf
 code --install-extension vscodevim.vim
 code --install-extension yzhang.markdown-all-in-one
 code --install-extension Zignd.html-css-class-completion
+code --install-extension mosapride.zenkaku
